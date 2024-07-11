@@ -8,15 +8,15 @@
 	<img src="https://komarev.com/ghpvc/?username=raeesul25&label=Profile%20views&color=0e75b6&style=flat" alt="raeesul25" /> 
 </p>
 
-- 🎓 I’m currently studying **Master of Science in Big Data Analytics** at <a href="https://www.iit.ac.lk/course/msc-big-data-analytics/">IIT</a>. I completed Degree in **BSc in IT (Hons) Specialization in Data Science** at <a href="https://www.sliit.lk/computing/programmes/data-science-degree/">SLIIT</a>.
+- 🎓 I’m currently studying **Master of Science in Big Data Analytics** at <a href="https://www.iit.ac.lk/course/msc-big-data-analytics/">Robert Gordon University</a>. I completed a Degree in **BSc in IT (Hons) Specialization in Data Science** at <a href="https://www.sliit.lk/computing/programmes/data-science-degree/">SLIIT</a>.
 
-- 👨‍💻 Enthusiastic about **Machine Learning, Deep Learning, LLMs, Generative AI, Big Data Analytics, NLP, and Computer Vision.**
+- 👨‍💻 Enthusiastic about **Machine Learning, Deep Learning, Large Language Models, RAG Application Developement, Generative AI, Big Data Analytics, Natural Language Processing, and Computer Vision.**
 
-- 👷 I’m currently Working as **AI Engineer** at Arimac Lanka.  I have completed internship as **Data Science/ Data Engineer** in Surge Global and internship as **Data Analyst** in Dialog Axiata PLC. Overall **1+ year** experience.
+- 👷 I’m currently Working as **AI Engineer** at Arimac Lanka.  I have completed an internship as **Data Science/ Data Engineer** in Surge Global and an internship as **Data Analyst** in Dialog Axiata PLC. Overall **1.5+ years** experience.
 
 - 📫 How to reach me **raeesulislam25@gmail.com**
 
-- ⚡ I Love **Create ML/DL Models, Generative AI**
+- ⚡ I Love **Create ML/DL Models, LLMs, RAG Applications, Generative AI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,6 +32,22 @@
 		<img align="center" src="https://i.pinimg.com/736x/dc/70/7c/dc707c0e2e4a1883d4ebb81d107aec9a.jpg" 
 		alt="https://www.instagram.com/raeesul_98/" height="30" width="30" />
 	</a>
+</p>
+
+<h3 align="left">Technical Skills:</h3>
+<p align="left">
+  <ul>
+	  <li>Machine Learning and Deep Learning Models and Frameworks</li>
+	  <li>Natural Language Processing Techniques and Libraries</li>
+	  <li>Large Language Models and Frameworks</li>
+	  <li>Computer Vision</li>
+	  <li>Big Data Analytics</li>
+	  <li>Data Engineering</li>
+	  <li>Business Intelligence</li>
+	  <li>Time Series Analysis</li>
+	  <li>Cloud Computing</li>
+	  <li>Web Scrapping</li>
+  </ul>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -29,8 +29,8 @@
 ## 🚀 What I'm Building Now
 
 ### 🤖 SocialMind AI - Multi-Tenant Customer Support Automation
-Turns WhatsApp, Messenger and Instagram inquiries into accurate, **grounded** conversations using RAG, with no hallucination-prone bots and no brittle rules.
-- **Deterministic grounding:** strict retrieval over menus, policies, FAQs and scraped sites
+Turns WhatsApp, Messenger, and Instagram inquiries into accurate, **grounded** conversations using RAG, with no hallucination-prone bots and no brittle rules.
+- **Deterministic grounding:** strict retrieval over menus, policies, FAQs, and scraped sites
 - **Multi-signal decision scoring:** vector relevance + evidence coverage + intent + grounding validation
 - **Human-in-the-loop:** escalation tickets, owner alerts on WhatsApp, live takeover over WebSockets
 - `Meta WhatsApp Cloud API` · `RAG` · `FastAPI` · `WebSockets` · `Multi-tenant`
@@ -104,12 +104,12 @@ Module-aware RAG advisor for an ERP covering Finance, Inventory, HRM, CRM and Pr
 <summary><b>🛠️ Full tech stack</b></summary>
 <br>
 
-**LLMs:** OpenAI · Gemini · Claude · Llama 3 · Mistral · Groq
-**Frameworks:** LangGraph · LangChain · LlamaIndex · Agno · AutoGen · CrewAI
-**ML:** PyTorch · TensorFlow · scikit-learn · Hugging Face · Spark · Databricks · Kafka
-**Data:** PostgreSQL · MySQL · MongoDB · Neo4j · Pinecone · ChromaDB · FAISS · Weaviate
-**Infra:** AWS · GCP · DigitalOcean · Docker · Kubernetes · GitHub Actions
-**Integrations:** WhatsApp Business API · HubSpot · n8n · Twilio · Keycloak
+- **LLMs:** OpenAI · Gemini · Claude · Llama 3 · Mistral · Groq
+- **Frameworks:** LangGraph · LangChain · LlamaIndex · Agno · AutoGen · CrewAI
+- **ML:** PyTorch · TensorFlow · scikit-learn · Hugging Face · Spark · Databricks · Kafka
+- **Data:** PostgreSQL · MySQL · MongoDB · Neo4j · Pinecone · ChromaDB · FAISS · Weaviate
+- **Infra:** AWS · GCP · DigitalOcean · Docker · Kubernetes · GitHub Actions
+- **Integrations:** WhatsApp Business API · HubSpot · n8n · Twilio · Keycloak
 </details>
 
 <div align="center">
@@ -122,7 +122,7 @@ Module-aware RAG advisor for an ERP covering Finance, Inventory, HRM, CRM and Pr
 
 ## 🤝 Let's Work Together
 
-I consult on **AI solutions, AI agents and agentic systems**, from architecture to production.
+I consult on **AI Solutions, AI Agents, and Agentic Systems**, from architecture to production.
 
 <div align="center">
 

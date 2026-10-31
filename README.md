@@ -1,193 +1,134 @@
-<p align="center">
-  <img alt="coding" width=400 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-</p>
-<h1 align="center">Hi 👋, I'm Raeesul Islam</h1>
-<h3 align="center">A passionate AI/ML Engineer | Data Scientist | Data Engineer from Sri Lanka</h3>
+<!-- HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0e75b6,100:6f42c1&text=Raeesul%20Islam&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Senior%20AI%20Engineer&descSize=20&descAlignY=58" alt="Raeesul Islam - Senior AI Engineer" />
 
-<p align="left"> 
-	<img src="https://komarev.com/ghpvc/?username=raeesul25&label=Profile%20views&color=0e75b6&style=flat" alt="raeesul25" /> 
-</p>
+<div align="center">
 
-- 🎓 I’m currently studying **Master of Science in Big Data Analytics** at <a href="https://www.iit.ac.lk/course/msc-big-data-analytics/">Robert Gordon University</a>. I completed a Degree in **BSc in IT (Hons) Specialization in Data Science** at <a href="https://www.sliit.lk/computing/programmes/data-science-degree/">SLIIT</a>.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Production-grade+multimodal+AI+systems;Agentic+workflows+%26+AI+agents;AI-powered+enterprise+SaaS+platforms;RAG+%C2%B7+Voice+AI+%C2%B7+LLM+orchestration)](https://github.com/raeesul25)
 
-- 👨‍💻 Enthusiastic about **Machine Learning, Deep Learning, Large Language Models, RAG Application Developement, Generative AI, Big Data Analytics, Natural Language Processing, and Computer Vision.**
+**Senior AI Engineer** at **EraBiz Solutions** · 4+ years building AI that ships · Sri Lanka 🇱🇰
 
-- 👷 I’m currently Working as **AI Engineer** at Arimac Lanka.  I have completed an internship as **Data Science/ Data Engineer** in Surge Global and an internship as **Data Analyst** in Dialog Axiata PLC. Overall **1.5+ years** experience.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raeesul-islam-6b40881bb)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raeesulislam25@gmail.com)
+![Consulting](https://img.shields.io/badge/Consulting-AI%20Solutions%20%7C%20Agents%20%7C%20Agentic%20Systems-6f42c1?style=for-the-badge)
 
-- 📫 How to reach me **raeesulislam25@gmail.com**
+</div>
 
-- ⚡ I Love **Create ML/DL Models, LLMs, RAG Applications, Generative AI**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/raeesul-islam-6b40881bb" target="blank">
-  	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 	      
-    alt="https://www.linkedin.com/in/raeesul-islam-6b40881bb" height="30" width="30" />
-  </a>
-  <a href="https://web.facebook.com/profile.php?id=100011493974004" target="blank">
-		<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" 
-		alt="https://web.facebook.com/profile.php?id=100011493974004" height="30" width="30" />
-	</a>
-  <a href="https://www.instagram.com/raeesul_98/" target="blank">
-		<img align="center" src="https://i.pinimg.com/736x/dc/70/7c/dc707c0e2e4a1883d4ebb81d107aec9a.jpg" 
-		alt="https://www.instagram.com/raeesul_98/" height="30" width="30" />
-	</a>
-</p>
+## ⚡ At a Glance
 
-<h3 align="left">Technical Skills:</h3>
-<p align="left">
-  <ul>
-	  <li>Machine Learning and Deep Learning Models and Frameworks</li>
-	  <li>Natural Language Processing Techniques and Libraries</li>
-	  <li>Large Language Models and Frameworks</li>
-	  <li>Computer Vision</li>
-	  <li>Big Data Analytics</li>
-	  <li>Data Engineering</li>
-	  <li>Business Intelligence</li>
-	  <li>Time Series Analysis</li>
-	  <li>Cloud Computing</li>
-	  <li>Web Scrapping</li>
-  </ul>
-</p>
+| | |
+|---|---|
+| 📄 **100K+** | documents processed monthly by my invoice AI pipeline |
+| 🎯 **95%+** | extraction accuracy on tax & adjustment documents |
+| ⚡ **<3s** | per-document latency · **<200ms** voice response latency |
+| 🎓 **MSc (Merit)** | Big Data Analytics, Robert Gordon University, UK |
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-	<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-	</a>
-  <a href="https://www.w3schools.com/r/" target="_blank" rel="noreferrer"> 
-		<img src="https://www.r-project.org/Rlogo.png" alt="R" width="40" height="40"/> 
-	</a>
-	<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-	</a>
-  <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer"> 
-		<img src="https://cdn-icons-png.flaticon.com/512/6132/6132220.png" alt="scala" width="40" height="40"/> 
-	</a>
-  <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> 
-		<img src="https://w7.pngwing.com/pngs/525/959/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-cloud-computing-text-trademark-logo.png" alt="sql" width="40" height="40"/> 
-	</a>
-	<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-	</a> 
-	<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-	</a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-	</a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-	</a>  
-	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-	</a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 	
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-		<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
-	</a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-	</a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-		<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-	</a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-		<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-	</a>  
-	<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-		<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-	</a> 
-	<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-		<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-	</a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-		<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-	</a>
-</p>
-<p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-	</a> 
-	<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-		<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
-	</a> 
-	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-	</a>  
-	<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
-	</a> 
-	<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" 		width="40" height="40"/> 
-	</a> 
-	<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" 		height="40"/> 
-	</a>  
-	<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-		<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
-	</a>
-</p>
-<p align="left">
-  <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> 
-		<img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> 
-	</a> 
-	<a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> 
-		<img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> 
-	</a>  
-	<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> 
-		<img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> 
-	</a>
-  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> 
-		<img src="https://ignos.blog/wp-content/uploads/2022/06/apachesparklogo-e1655475818894.png" alt="spark" width="40" height="40"/> 
-	</a>
-</p>
-<p align="left">
-  <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"> 
-		<img src="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Symbol.png" alt="powerbi" width="40" height="40"/> 
-	</a> 
-	<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
-		<img src="https://www.selectdistinct.co.uk/wp-content/uploads/2023/03/Tableau-logo-removebg-preview.png" alt="tableau" width="40" height="40"/> 
-	</a>  
-	<a href="https://superset.apache.org/" target="_blank" rel="noreferrer"> 
-		<img src="https://apache-superset.readthedocs.io/en/0.35.0/_images/s.png" alt="superset" width="40" height="40"/> 
-	</a>
-  <a href="https://grafana.com" target="_blank" rel="noreferrer"> 
-		<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> 
-	</a> 
-</p>
-<p align="left">
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
-		<img src="https://yt3.googleusercontent.com/HRJKaJg70sqBrCNh7Tf2RSjXTb_5hCUn7Hht7mxUJMg77EWkihh55JklD-KhwAMhwY31ox5O=s900-c-k-c0x00ffffff-no-rj" alt="aws" width="40" height="40"/> 
-	</a>
-  <a href="https://azure.microsoft.com/en-us" target="_blank" rel="noreferrer"> 
-		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" alt="azure" width="40" height="40"/> 
-	</a>
-  <a href="https://www.oracle.com/cloud/" target="_blank" rel="noreferrer"> 
-		<img src="https://www.mesaonline.org/wp-content/uploads/2017/01/oraclecloud-e1484680899706.png" alt="oracle-cloud" width="40" height="40"/> 
-	</a>
-</p>
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-	</a>  
-	<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-	</a>  
-	<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-	</a>
-</p>
-<p>
-	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raeesul25&show_icons=true&locale=en&layout=compact" alt="raeesul25" />
-</p>
+---
 
-<p>&nbsp;
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=raeesul25&show_icons=true&locale=en" alt="raeesul25" />
-</p>
+## 🚀 What I'm Building Now
 
-<p>
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raeesul25&" alt="raeesul25" />
-</p>
+### 🤖 SocialMind AI - Multi-Tenant Customer Support Automation
+Turns WhatsApp, Messenger and Instagram inquiries into accurate, **grounded** conversations using RAG, with no hallucination-prone bots and no brittle rules.
+- **Deterministic grounding:** strict retrieval over menus, policies, FAQs and scraped sites
+- **Multi-signal decision scoring:** vector relevance + evidence coverage + intent + grounding validation
+- **Human-in-the-loop:** escalation tickets, owner alerts on WhatsApp, live takeover over WebSockets
+- `Meta WhatsApp Cloud API` · `RAG` · `FastAPI` · `WebSockets` · `Multi-tenant`
+
+### 💬 AccDoo Platform Advisor - Multilingual ERP Copilot
+Module-aware RAG advisor for an ERP covering Finance, Inventory, HRM, CRM and Projects.
+- Detects and replies in **English, Sinhala, Tamil, Singlish and Tanglish**
+- Cited answers, smart follow-ups, in-chat demo booking
+- CLI-first knowledge lifecycle: multi-format ingestion, site crawler, diff-based vector updates, Postgres ↔ Pinecone reconciliation
+- `RAG` · `Pinecone` · `PostgreSQL` · `Next.js`
+
+---
+
+## 🏆 Featured Work
+
+<details open>
+<summary><b>🏨 SinoraIQ - AI-Powered Enterprise SaaS for Hospitality</b></summary>
+<br>
+
+- **Two-stage multimodal pipeline** (GPT-4o, Gemini): classify invoice type and supplier, then extract precisely. **95%+ accuracy**, **100K+ docs/month**, **<3s latency**
+- **Sales intelligence:** real-time demand, stockout, market-basket and margin insights on PostgreSQL materialised views
+- **Order email agent:** LLM reads supplier replies, flags substitutions and stockouts, reconciles price and quantity variance, with no manual follow-up
+- **Enterprise security:** Keycloak (JWT, RBAC, row-level security) with Gmail, Office 365, Xero, Azure PostgreSQL and Epicor MSSQL connectors
+
+`Python` `FastAPI` `OpenAI` `Gemini` `LangChain` `PostgreSQL` `Next.js` `Keycloak` `Docker`
+</details>
+
+<details>
+<summary><b>💸 Expense Intelligence AI Agent</b></summary>
+<br>
+
+- Autonomous agent extracting and categorising data from receipts, invoices and bank statements: **90%+ accuracy**, sub-second per document
+- Conversational expense tracking over **WhatsApp Business API** via n8n, built for non-technical users
+
+`Python` `OpenAI` `Gemini` `n8n` `WhatsApp API`
+</details>
+
+<details>
+<summary><b>🎙️ Next Agent AI - Omnichannel Voice & Messaging Agent Platform</b></summary>
+<br>
+
+- Real-time STT/TTS (Deepgram + ElevenLabs) with **<200ms** response latency, multilingual and multi-tenant
+- Multi-model orchestration (Llama 3, Gemini, GPT-4) with live model switching and channel-aware formatting
+- Config APIs for dynamic LLM control (model, temperature, token limits)
+
+`FastAPI` `LangChain` `Deepgram` `ElevenLabs` `Llama 3`
+</details>
+
+<details>
+<summary><b>📊 More: CX Analytics · Recruitment RAG · Financial QA · HubSpot Automation</b></summary>
+<br>
+
+- **Transaction Monitoring System:** multimodal CX analytics (face, speech, sentiment) with **86% emotion** and **84% sentiment accuracy**, English and Bengali, Power BI dashboards
+- **Smart Recruitment Platform:** RAG + vector search screens CVs in **under 10 seconds**
+- **Financial Knowledge QA:** RAG system that answers in text *and* dynamic charts
+- **HubSpot Real Estate Automation:** real-time property inventory sync with custom objects and workflows
+</details>
+
+---
+
+## 🧠 Capabilities
+
+| | |
+|---|---|
+| **🤖 LLMs & Agents** | Agentic workflows · multi-agent systems · function calling · prompt engineering (CoT, ReAct) · fine-tuning (LoRA, QLoRA, PEFT) · LLM evaluation (RAGAS, LLM-as-a-Judge) |
+| **🔎 RAG** | Standard · GraphRAG · Self-RAG · CRAG · HyDE · hybrid search |
+| **👁️ Multimodal & Voice** | Document AI · OCR · GPT-4V · Gemini Vision · YOLO · Whisper · Deepgram · ElevenLabs |
+| **🏗️ Architecture** | Solution design, multi-tenant SaaS, enterprise auth, async microservices, technical mentorship |
+
+<details>
+<summary><b>🛠️ Full tech stack</b></summary>
+<br>
+
+**LLMs:** OpenAI · Gemini · Claude · Llama 3 · Mistral · Groq
+**Frameworks:** LangGraph · LangChain · LlamaIndex · Agno · AutoGen · CrewAI
+**ML:** PyTorch · TensorFlow · scikit-learn · Hugging Face · Spark · Databricks · Kafka
+**Data:** PostgreSQL · MySQL · MongoDB · Neo4j · Pinecone · ChromaDB · FAISS · Weaviate
+**Infra:** AWS · GCP · DigitalOcean · Docker · Kubernetes · GitHub Actions
+**Integrations:** WhatsApp Business API · HubSpot · n8n · Twilio · Keycloak
+</details>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,tensorflow,react,nextjs,ts,postgres,mongodb,docker,kubernetes,aws,gcp,git&perline=14" alt="Core stack" />
+
+</div>
+
+---
+
+## 🤝 Let's Work Together
+
+I consult on **AI solutions, AI agents and agentic systems**, from architecture to production.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raeesul-islam-6b40881bb)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raeesulislam25@gmail.com)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0e75b6,100:6f42c1&section=footer" alt="" />
+
+</div>

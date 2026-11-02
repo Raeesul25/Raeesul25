@@ -11,6 +11,8 @@
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raeesulislam25@gmail.com)
 ![Consulting](https://img.shields.io/badge/Consulting-AI%20Solutions%20%C2%B7%20AI%20Agents%20%C2%B7%20Agentic%20Systems-6f42c1?style=for-the-badge)
 
+<img src="https://komarev.com/ghpvc/?username=raeesul25&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+
 </div>
 
 ---
